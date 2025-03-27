@@ -1,4 +1,4 @@
-# mini_deep_learning_framework
+# mini-deep-learning-framework
 
 ## Overview
 This repo contains an implementation of a mini deep learning framework. The framework, built using only PyTorch's tensor operations and the standard math library, offers user-friendly tools for constructing multi-layer perceptrons with various activation functions. It also supports training with a range of optimizers (SGD, RMSprop, Adam) and loss functions.
